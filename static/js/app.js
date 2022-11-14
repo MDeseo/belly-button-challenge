@@ -127,4 +127,3 @@ function optionChanged(sampleID) {
     buildCharts(sampleID);
     buildMetadata(sampleID);
   }
-  
